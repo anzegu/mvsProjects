@@ -1,0 +1,34 @@
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\bin\Debug\notepad.exe.config
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\bin\Debug\notepad.exe
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\bin\Debug\notepad.pdb
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.exe
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.pdb
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.aboutForm.resources
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\notepad\notepad\notepad\obj\Debug\notepad.notepad.resources
+C:\Anže\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Anže\notepad\notepad\obj\Debug\notepad.exe
+C:\Anže\notepad\notepad\obj\Debug\notepad.pdb
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.exe
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.pdb
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.exe
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.pdb
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.aboutForm.resources
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.notepad.resources
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Anže Grintal-Ugovšek\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.exe.config
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.exe
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\bin\Debug\notepad.pdb
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.aboutForm.resources
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.notepad.resources
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.exe
+D:\Datoteke\Skul\2016 - 17\MVS\UrejevalnikBesedil\notepad\notepad\obj\Debug\notepad.pdb

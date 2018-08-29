@@ -1,0 +1,42 @@
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.exe.config
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.exe
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.pdb
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.dll
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.xml
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.csprojResolveAssemblyReference.cache
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form2.resources
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Properties.Resources.resources
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.csproj.GenerateResource.Cache
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.exe
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.pdb
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form3.resources
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form4.resources
+C:\Users\Anže\Desktop\Skul\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form1.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.exe.config
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.exe
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\GlasbenaLestvica.pdb
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.dll
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.SqlServer.dll
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.dll
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.xml
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\EntityFramework.SqlServer.xml
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.xml
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\bin\Debug\System.Data.SQLite.dll.config
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.csprojResolveAssemblyReference.cache
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form1.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form2.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form3.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Form4.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.Properties.Resources.resources
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.csproj.GenerateResource.Cache
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.csproj.CoreCompileInputs.cache
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.exe
+D:\Datoteke\Skul\2016 - 17\MVS\GlasbenaLestvica\GlasbenaLestvica\obj\Debug\GlasbenaLestvica.pdb
