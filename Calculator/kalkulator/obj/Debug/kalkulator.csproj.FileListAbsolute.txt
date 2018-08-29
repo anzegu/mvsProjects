@@ -1,0 +1,28 @@
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.kalkulator.resources
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Users\Domen Ramšak\Desktop\Datoteke\Šola\SŠ\3. letnik\PRO\ocena\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.kalkulator.resources
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Anže\Desktop\Skul\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.kalkulator.resources
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Datoteke\Skul\2016 - 17\MVS\R_kalkulator\kalkulator\obj\Debug\kalkulator.pdb
